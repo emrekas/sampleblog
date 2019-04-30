@@ -1,0 +1,8 @@
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Infrastructure\bin\Debug\netstandard2.0\SampleBlog.Infrastructure.deps.json
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Infrastructure\bin\Debug\netstandard2.0\SampleBlog.Infrastructure.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Infrastructure\bin\Debug\netstandard2.0\SampleBlog.Infrastructure.pdb
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Infrastructure\obj\Debug\netstandard2.0\SampleBlog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Infrastructure\obj\Debug\netstandard2.0\SampleBlog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Infrastructure\obj\Debug\netstandard2.0\SampleBlog.Infrastructure.AssemblyInfo.cs
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Infrastructure\obj\Debug\netstandard2.0\SampleBlog.Infrastructure.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Infrastructure\obj\Debug\netstandard2.0\SampleBlog.Infrastructure.pdb

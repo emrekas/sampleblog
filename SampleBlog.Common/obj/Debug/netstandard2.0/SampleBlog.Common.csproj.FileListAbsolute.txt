@@ -1,0 +1,9 @@
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Common\bin\Debug\netstandard2.0\SampleBlog.Common.deps.json
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Common\bin\Debug\netstandard2.0\SampleBlog.Common.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Common\bin\Debug\netstandard2.0\SampleBlog.Common.pdb
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Common\obj\Debug\netstandard2.0\SampleBlog.Common.csprojAssemblyReference.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Common\obj\Debug\netstandard2.0\SampleBlog.Common.csproj.CoreCompileInputs.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Common\obj\Debug\netstandard2.0\SampleBlog.Common.AssemblyInfoInputs.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Common\obj\Debug\netstandard2.0\SampleBlog.Common.AssemblyInfo.cs
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Common\obj\Debug\netstandard2.0\SampleBlog.Common.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Common\obj\Debug\netstandard2.0\SampleBlog.Common.pdb

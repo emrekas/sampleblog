@@ -1,0 +1,12 @@
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\bin\Debug\netstandard2.0\SampleBlog.Persistence.deps.json
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\bin\Debug\netstandard2.0\SampleBlog.Persistence.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\bin\Debug\netstandard2.0\SampleBlog.Persistence.pdb
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\bin\Debug\netstandard2.0\SampleBlog.Domain.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\bin\Debug\netstandard2.0\SampleBlog.Domain.pdb
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\obj\Debug\netstandard2.0\SampleBlog.Persistence.csprojAssemblyReference.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\obj\Debug\netstandard2.0\SampleBlog.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\obj\Debug\netstandard2.0\SampleBlog.Persistence.AssemblyInfoInputs.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\obj\Debug\netstandard2.0\SampleBlog.Persistence.AssemblyInfo.cs
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\obj\Debug\netstandard2.0\SampleBlog.Persistence.csproj.CopyComplete
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\obj\Debug\netstandard2.0\SampleBlog.Persistence.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Persistence\obj\Debug\netstandard2.0\SampleBlog.Persistence.pdb

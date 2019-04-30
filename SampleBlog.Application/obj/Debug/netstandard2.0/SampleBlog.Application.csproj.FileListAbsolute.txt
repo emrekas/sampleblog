@@ -1,0 +1,14 @@
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\obj\Debug\netstandard2.0\SampleBlog.Application.csprojAssemblyReference.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\obj\Debug\netstandard2.0\SampleBlog.Application.csproj.CoreCompileInputs.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\obj\Debug\netstandard2.0\SampleBlog.Application.AssemblyInfoInputs.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\obj\Debug\netstandard2.0\SampleBlog.Application.AssemblyInfo.cs
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\bin\Debug\netstandard2.0\SampleBlog.Application.deps.json
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\bin\Debug\netstandard2.0\SampleBlog.Application.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\bin\Debug\netstandard2.0\SampleBlog.Application.pdb
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\bin\Debug\netstandard2.0\SampleBlog.Domain.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\bin\Debug\netstandard2.0\SampleBlog.Persistence.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\bin\Debug\netstandard2.0\SampleBlog.Domain.pdb
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\bin\Debug\netstandard2.0\SampleBlog.Persistence.pdb
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\obj\Debug\netstandard2.0\SampleBlog.Application.csproj.CopyComplete
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\obj\Debug\netstandard2.0\SampleBlog.Application.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Application\obj\Debug\netstandard2.0\SampleBlog.Application.pdb

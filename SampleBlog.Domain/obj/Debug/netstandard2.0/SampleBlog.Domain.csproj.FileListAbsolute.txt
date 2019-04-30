@@ -1,0 +1,8 @@
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Domain\bin\Debug\netstandard2.0\SampleBlog.Domain.deps.json
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Domain\bin\Debug\netstandard2.0\SampleBlog.Domain.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Domain\bin\Debug\netstandard2.0\SampleBlog.Domain.pdb
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Domain\obj\Debug\netstandard2.0\SampleBlog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Domain\obj\Debug\netstandard2.0\SampleBlog.Domain.AssemblyInfoInputs.cache
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Domain\obj\Debug\netstandard2.0\SampleBlog.Domain.AssemblyInfo.cs
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Domain\obj\Debug\netstandard2.0\SampleBlog.Domain.dll
+C:\Users\Emre KAS\Desktop\SampleBlog\SampleBlog.Domain\obj\Debug\netstandard2.0\SampleBlog.Domain.pdb

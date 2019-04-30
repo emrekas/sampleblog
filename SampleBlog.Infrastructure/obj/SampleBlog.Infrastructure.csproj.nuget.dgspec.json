@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Emre KAS\\Desktop\\SampleBlog\\SampleBlog.Infrastructure\\SampleBlog.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Emre KAS\\Desktop\\SampleBlog\\SampleBlog.Infrastructure\\SampleBlog.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emre KAS\\Desktop\\SampleBlog\\SampleBlog.Infrastructure\\SampleBlog.Infrastructure.csproj",
+        "projectName": "SampleBlog.Infrastructure",
+        "projectPath": "C:\\Users\\Emre KAS\\Desktop\\SampleBlog\\SampleBlog.Infrastructure\\SampleBlog.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Emre KAS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emre KAS\\Desktop\\SampleBlog\\SampleBlog.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Emre KAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
